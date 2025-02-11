@@ -8,13 +8,10 @@
 <body>
     <h1>
         <?php  
-            echo "Hello, World" 
+            $greeting = "Hello";
+            
+            echo "$greeting Everybody!";
         ?>
     </h1>
-    <p>
-        <?php 
-            echo "Emegesh, I just learned how to put strings in PHP!!"
-        ?>
-    </p>
 </body>
 </html>
